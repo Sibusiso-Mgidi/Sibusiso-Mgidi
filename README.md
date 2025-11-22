@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br><br>👨‍💻 Data Engineer passionate about building scalable, modern data solutions.<br><br>🔭 Currently building: a Modern Data Warehouse following Medallion Architecture: Bronze, Silver, and Gold layers.<br><br>🌱 Currently learning: Microsoft Azure — Databricks and Azure Data Factory.<br><br>⚡ My philosophy: No matter how saturated the market is, if you're passionate and consistent, there will always be space for you.
+👋 Hi there!<br><br>👨‍💻 Data Engineer passionate about building scalable, modern data solutions.<br><br>🔭 Currently building: Azure Data Factory ETL process.<br><br>🌱 Currently learning: Microsoft Azure — Databricks and Azure Data Factory.<br><br>⚡ My philosophy: No matter how saturated the market is, if you're passionate and consistent, there will always be space for you.
 
 ## 🌐 Socials
 
